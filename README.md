@@ -1,6 +1,10 @@
 # Flutter Internship lancemeup
 
 #Flutter project.
+1. App Theming
+2. Efficient UI
+3. Readable codebase
+4. Responsiveness
 
 ## Getting Started
 
